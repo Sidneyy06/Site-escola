@@ -12,10 +12,7 @@ body {
  .escola-titulo {
    padding: 24px 0
  }
- .escola-texto-um{
-
- }
- .escola-texto-dois{
+ .estudante-nome{
 
  }
  .escola-conteudo{
@@ -45,7 +42,11 @@ body {
            display:flex;
             width:75%;
          }
-        
+         footer{
+          background-color: black;
+          padding: 15px 0;
+          text-align: center;
+         }
 
          body{
             font-family:’Poppins’,sans-serif;
